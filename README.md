@@ -29,7 +29,7 @@ Routing, switching, IPv4/IPv6, VLANs, OSPF, VPNs, NAT, ACLs, HSRP & network redu
 
 Network security, vulnerability assessment, SIEM, threat detection, web security, DFIR, risk assessment & security compliance.
 
-🛡️ **[Cybersecurity Projects](MY_LINK)**
+🛡️ **[Cybersecurity Projects](https://github.com/mbeeudo/Vulnerability-Assessment-Penetration-Testing-DVWA)**
 
 ## 🛠️ Technologies & Tools
 
