@@ -4,7 +4,7 @@
 
 I'm an aspiring **Cloud & Network Security Engineer** building hands-on projects across AWS cloud infrastructure, networking, and cybersecurity.
 
-I'm developing my skills through structured learning, hands-on labs, and real-world-inspired projects — focusing on not just *how* technologies work, but **why they are designed and deployed the way they are**.
+I'm developing my skills through structured learning, hands-on labs, and real-world-inspired projects, focusing on not just *how* technologies work, but **why they are designed and deployed the way they are**.
 
 I'm learning by doing:
 
