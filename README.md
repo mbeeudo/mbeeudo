@@ -6,7 +6,7 @@ I'm an aspiring **Cloud & Network Security Engineer** building hands-on projects
 
 I'm developing my skills through structured learning, hands-on labs, and real-world-inspired projects, focusing on not just *how* technologies work, but **why they are designed and deployed the way they are**.
 
-I'm learning by doing:
+🛠️ My Learning Approach:
 
 > **Learn → Build → Break → Troubleshoot → Improve → Document**
 
