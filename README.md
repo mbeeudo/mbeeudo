@@ -45,7 +45,7 @@ AWS Cloud Architecture • Cloud Security • Network Engineering • Python Aut
 
 ### 🤝 Let's Connect
 
-[LinkedIn](MY_LINKEDIN) • [X](MY_X)
+[LinkedIn](https://www.linkedin.com/in/mbuotidem-udo) • [X](https://x.com/wildfl0w6r)
 
 > Building my skills one project at a time.
 -->
