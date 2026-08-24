@@ -23,7 +23,7 @@ A 9-project AWS transformation of a fictional growing technology company.
 
 Routing, switching, IPv4/IPv6, VLANs, OSPF, VPNs, NAT, ACLs, HSRP & network redundancy.
 
-🌐 **[Networking Projects](MY_LINK)**
+🌐 **[Networking Projects](https://github.com/mbeeudo/MAVENETS-Enterprise-Network-Infrastructure-)**
 
 ### 🔐 Cybersecurity
 
