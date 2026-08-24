@@ -14,7 +14,7 @@ I'm developing my skills through structured learning, hands-on labs, and real-wo
 
 AWS cloud infrastructure, serverless, security, networking, monitoring, automation & AI.
 
-🏗️ **[OakForge Solutions — AWS Cloud Transformation](MY_LINK)**  
+🏗️ **[OakForge Solutions — AWS Cloud Transformation](https://github.com/mbeeudo/-oakforge-aws-cloud-transformation)**  
 A 9-project AWS transformation of a fictional growing technology company.
 
 ### 🌐 Networking
