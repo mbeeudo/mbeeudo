@@ -36,8 +36,8 @@ Network security, vulnerability assessment, SIEM, threat detection, web security
 **Cloud:** AWS  
 **Networking:** Cisco, Packet Tracer, Wireshark  
 **Security:** Nmap, Burp Suite, Splunk, Wazuh  
-**Programming:** Python, SQL, Bash  
-**Tools:** Git, GitHub, Linux
+**Programming:** Python, SQL, BASH, HTML, CSS 
+**Tools:** Git, GitHub, Linux, VS Code, Docker
 
 ## 📚 Currently Learning
 
